@@ -1,5 +1,6 @@
 RELATIVE MODEL PERFORMANCE
 ==========================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6656806.svg)](https://doi.org/10.5281/zenodo.6656806)
 
 Figure number: 3.42
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 3
